@@ -6,7 +6,16 @@
       "Bash(python3:*)",
       "Bash(git init:*)",
       "Bash(git add:*)",
-      "Bash(git commit:*)"
+      "Bash(git commit:*)",
+      "Bash(gh repo create:*)",
+      "Bash(git remote set-url:*)",
+      "Bash(git push:*)",
+      "Bash(gh api:*)",
+      "Bash(gh repo edit:*)",
+      "Bash(curl:*)",
+      "Bash(dig:*)",
+      "Bash(ping:*)",
+      "Bash(for slug in gallery-ml gallery-ai gallery-mlops gallery-ds gallery-de gallery-ll)"
     ]
   }
 }
